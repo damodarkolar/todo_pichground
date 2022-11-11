@@ -1,0 +1,2 @@
+This is full stack todo app, In this app you can create all your todos and update both status as well as content of created todos also easily we can delete the created todos.
+Demo video link -https://drive.google.com/file/d/1NkEMDufOiMMQfpYNHe0GJOnWaQ_6Rjt7/view?usp=share_link
